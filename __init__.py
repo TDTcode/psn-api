@@ -1,0 +1,1 @@
+from psnapi import *
